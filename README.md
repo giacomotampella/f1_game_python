@@ -8,12 +8,12 @@ Simple racing game where the cars have to dodge obstacles
 
     COMMANDS:
         
-        PLAYER A: 'w' =         Up
-                  's' =         Down
-                  'a' =         Left
-                  'd' =         Right
-                  'space' =     Acceleration
-                  'q' =         Deceleration
+        PLAYER A: 'w' =             Up
+                  's' =             Down
+                  'a' =             Left
+                  'd' =             Right
+                  'space' =         Acceleration
+                  'q' =             Deceleration
              
         PLAYER B: 'up arrow' =      Up
                   'down arrow' =    Down
